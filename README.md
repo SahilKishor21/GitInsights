@@ -32,10 +32,8 @@ A comprehensive analytics platform for GitHub profiles, providing in-depth analy
 ## 📊 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/400x250?text=User+Dashboard" alt="User Dashboard" width="400"/>
-  <img src="https://via.placeholder.com/400x250?text=Repository+Analysis" alt="Repository Analysis" width="400"/>
-  <img src="https://via.placeholder.com/400x250?text=Language+Charts" alt="Language Charts" width="400"/>
-  <img src="https://via.placeholder.com/400x250?text=Activity+Heatmap" alt="Activity Heatmap" width="400"/>
+  <img src="./Screenshot 2025-05-14 235521.png" alt="Repository Analysis" width="400"/>
+  <img src="./Screenshot 2025-05-14 235622.png" alt="Language Charts" width="400"/>
 </div>
 
 ## 🗂️ Project Structure
