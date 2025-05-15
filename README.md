@@ -32,9 +32,9 @@ A comprehensive analytics platform for GitHub profiles, providing in-depth analy
 ## 📊 Screenshots
 
 <div align="center">
-  <img src="./Screenshot 2025-05-15 212351.png" alt="Profile Summary" width="400"/>
-  <img src="./Screenshot 2025-05-14 235521.png" alt="Repository Analysis" width="400"/>
-  <img src="./Screenshot 2025-05-14 235622.png" alt="Language Charts" width="400"/>
+  <img src="./Screenshot 2025-05-15 212351.png" alt="Profile Summary" width="400" height="300"/>
+  <img src="./Screenshot 2025-05-14 235521.png" alt="Repository Analysis" width="400" height="300"/>
+  <img src="./Screenshot 2025-05-14 235622.png" alt="Language Charts" width="400" height="300"/>
 </div>
 
 ## 🗂️ Project Structure
